@@ -3,7 +3,7 @@ Some details for the Ghana project computers.
 
 ## Our current state
 
-We will assume that the computer has Windows installed. We will replace the Windows operating system with the Ubuntu operating system. The reason we are doing this is that we have worked with the machine learning packages on Linux. With Windows support starting to be ramped up (by makers of the machine learning packages), this situation may change over the next few months. But until we test out these new developments we will use Linux. 
+We will assume that the computer has Windows installed. We will replace the Windows operating system with the Ubuntu operating system. The reason for doing this is: we at CWAR have worked with the machine learning packages on Linux. With Windows support starting to be ramped up (by makers of the machine learning packages), this situation may change over the next few months. But until we test out these new developments we will use Linux. 
 
 All of this data is easily found on the Internet. This is just my attempt to collate them in one place for convenience.  
 
