@@ -34,12 +34,25 @@ Now we use the USB installer we made above to convert a Windows computer to Ubun
 The procedure to upgrade to the next LTS version of Ubuntu is very similar to the above
  
 ## Super quick Ubuntu/Linux tutorial
-Today we will look at some basic Linux usage and install some packages/software that will be useful. 
+Lets take a look at some basic Linux usage and install some packages/software that will be useful. 
 
 ### Getting the terminal (command prompt)
  - `CTRL-ALT-t` brings up the terminal. You can type commands here to get things done. Note the command prompt is one way to interact with Ubuntu. You can also interact with the mouse but doing it from the command line can be super useful. Here we will look at a very tiny set of commands to get started. 
-### Directory navigation/creation/etc
- - The command to create a new directory/folder is `mkdir`. So to create 
 
-## Some useful packages
-  
+### Directory navigation/creation/etc
+ - To figure out where you are do `pwd`. In the terminal type in `pwd` and you can see the path to the current directory.
+ - The command to create a new directory/folder is `mkdir`. So to create a directory called **ghanatest** we will type `mkdir ghanatest` in the terminal. 
+ - To change directories the command `cd` can be used. To go inside the just created directory **ghanatest**, we type `cd ghanatest`. 
+ - To list the contents of the directory you are in type `ls`. What happens when you type `ls -l`? One scenario where the option `-l` for `ls` is useful when we want to find permissions for the contents of the listing.  
+ - To remove a directory use `rm`. What happens when you type `rm -r`? 
+ 
+### Python 
+ - Python is a general purpose programming language. It is used in data science a lot though it's functionality extends to many applications beyond data science. We will also be using Python 3 (not Python 2.7). 
+ - Ubuntu comes with Python by default, but we will need a lot of packages useful for scientific computing. For a lot of use cases (including ours) the Anaconda distribution of Python contains all the tools we need. Installing Anaconda is very straight forward, but let us walk through it. Here is the download link: https://www.anaconda.com/download. 
+ - We will now look at how to create a conda environment. Such a setup is useful for working with different requirements for different projects. Let us create a conda environment called **ghanaenv**.  
+ 
+ 
+### Git and GitHub 
+ - Git is a version control system software. It tracks changes that you make to your files/folders and helps you go to different snapshots for the files/folders. 
+ - GitHub is a company that offers a web based interface to versioning files based on Git. It has a free and paid version. If you want to save your own files on GitHub you have to register and create an account. If you want to just clone a public repository on your computer having Git installed is sufficient. 
+  - We will now clone the ghana-computers repository to the local machines. 
