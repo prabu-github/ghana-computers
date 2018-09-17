@@ -1,7 +1,7 @@
 # ghana-computers
 Some details for the Ghana project computers.
 
-## Our current state
+## Sep 10, 2018
 
 We will assume that the computer has Windows installed. We will replace the Windows operating system with the Ubuntu operating system. The reason for doing this is: we at CWAR have worked with the machine learning packages on Linux. With Windows support starting to be ramped up (by makers of the machine learning packages), this situation may change over the next few months. But until we test out these new developments we will use Linux. 
 
@@ -33,7 +33,7 @@ Now we use the USB installer we made above to convert a Windows computer to Ubun
  
 The procedure to upgrade to the next LTS version of Ubuntu is very similar to the above
  
-## Super quick Ubuntu/Linux tutorial
+## Sep 17, 2018
 Lets take a look at some basic Linux usage and install some packages/software that will be useful. 
 
 ### Getting the terminal (command prompt)
