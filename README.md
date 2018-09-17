@@ -56,3 +56,5 @@ Lets take a look at some basic Linux usage and install some packages/software th
  - Git is a version control system software. It tracks changes that you make to your files/folders and helps you go to different snapshots for the files/folders. 
  - GitHub is a company that offers a web based interface to versioning files based on Git. It has a free and paid version. If you want to save your own files on GitHub you have to register and create an account. If you want to just clone a public repository on your computer having Git installed is sufficient. 
   - We will now clone the ghana-computers repository to the local machines. 
+  
+## Spinnaker
