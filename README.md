@@ -22,7 +22,7 @@ Now we use the USB installer we made above to convert a Windows computer to Ubun
 
  - Shutdown the computer. 
  - Plug in the USB installer stick you made above. 
- - Restart the computer. When the screen shows some signs of life, press the F12 button and hold it. This will bring the boot screen. 
+ - Restart the computer. When the screen shows some signs of life, press the **F2** button and hold it. This will bring the boot screen. 
  - On the boot screen choose that you want to use the USB. Note you have to navigate using keyboard here usually. Mouse does not work. 
  - Choose you want to Install Ubuntu. 
  - Follow prompts and finish installation (It will take a few minutes depending on internet connection). I typically make the following choices when asked: 
@@ -34,8 +34,12 @@ Now we use the USB installer we made above to convert a Windows computer to Ubun
 The procedure to upgrade to the next LTS version of Ubuntu is very similar to the above
  
 ## Super quick Ubuntu/Linux tutorial
+Today we will look at some basic Linux usage and install some packages/software that will be useful. 
 
-## Spinnaker
+### Getting the terminal (command prompt)
+ - `CTRL-ALT-t` brings up the terminal. You can type commands here to get things done. Note the command prompt is one way to interact with Ubuntu. You can also interact with the mouse but doing it from the command line can be super useful. Here we will look at a very tiny set of commands to get started. 
+### Directory navigation/creation/etc
+ - The command to create a new directory/folder is `mkdir`. So to create 
 
 ## Some useful packages
   
