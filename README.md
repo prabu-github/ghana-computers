@@ -56,7 +56,7 @@ We will install Python and Git. Then we will clone a repository onto the laptop.
  
  
 ### Git and GitHub 
- - Git is a version control system software. It tracks changes that you make to your files/folders and helps you go to different snapshots for the files/folders. At the command prompt type: `sudo apt-get install git'.
+ - Git is a version control system software. It tracks changes that you make to your files/folders and helps you go to different snapshots for the files/folders. At the command prompt type: `sudo apt-get install git`.
  - GitHub is a company that offers a web based interface to versioning based on Git. It has a free and paid version. If you want to save your own files on GitHub you have to register and create an account. If you want to just clone a public repository on your computer having Git installed is sufficient. 
   - We will now clone the ghana-computers repository to the laptop. 
   
