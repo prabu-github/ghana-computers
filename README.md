@@ -47,7 +47,7 @@ Lets take a look at some basic Linux usage and install some packages/software th
  - To remove a directory use `rm`. What happens when you type `rm -r`? 
 
 ## Oct 1, 2018
-We will install Python and get Git installed. Then we will clone a repository onto the laptop.
+We will install Python and Git. Then we will clone a repository onto the laptop.
 
 ### Python 
  - Python is a general purpose programming language. It is used in data science a lot though it's functionality extends to many applications beyond data science. We will also be using Python 3 (not Python 2.7). 
@@ -57,7 +57,7 @@ We will install Python and get Git installed. Then we will clone a repository on
  
 ### Git and GitHub 
  - Git is a version control system software. It tracks changes that you make to your files/folders and helps you go to different snapshots for the files/folders. 
- - GitHub is a company that offers a web based interface to versioning files based on Git. It has a free and paid version. If you want to save your own files on GitHub you have to register and create an account. If you want to just clone a public repository on your computer having Git installed is sufficient. 
-  - We will now clone the ghana-computers repository to the local machines. 
+ - GitHub is a company that offers a web based interface to versioning based on Git. It has a free and paid version. If you want to save your own files on GitHub you have to register and create an account. If you want to just clone a public repository on your computer having Git installed is sufficient. 
+  - We will now clone the ghana-computers repository to the laptop. 
   
 ## Spinnaker
