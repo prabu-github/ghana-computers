@@ -45,7 +45,10 @@ Lets take a look at some basic Linux usage and install some packages/software th
  - To change directories the command `cd` can be used. To go inside the just created directory **ghanatest**, we type `cd ghanatest`. 
  - To list the contents of the directory you are in type `ls`. What happens when you type `ls -l`? One scenario where the option `-l` for `ls` is useful when we want to find permissions for the contents of the listing.  
  - To remove a directory use `rm`. What happens when you type `rm -r`? 
- 
+
+## Oct 1, 2018
+We will install Python and get Git installed. Then we will clone a repository onto the laptop.
+
 ### Python 
  - Python is a general purpose programming language. It is used in data science a lot though it's functionality extends to many applications beyond data science. We will also be using Python 3 (not Python 2.7). 
  - Ubuntu comes with Python by default, but we will need a lot of packages useful for scientific computing. For a lot of use cases (including ours) the Anaconda distribution of Python contains all the tools we need. Installing Anaconda is very straight forward, but let us walk through it. Here is the download link: https://www.anaconda.com/download. 
